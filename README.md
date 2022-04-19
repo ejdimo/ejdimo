@@ -1,5 +1,6 @@
 - Γεια σας This is a pre-production test for projects and class.
-- Email me for production code, research and to collaborate on natural language processing, anti-bias in datasets and sewing your own clothes with a killer cross-stich. 
+- Email me for production code, research and to collaborate on natural language processing, anti-bias in datasets and sewing your own clothes with a killer cross-stich.
+- https://linktr.ee/elliesberlinkey
  
 <!---
 This `README.md` appears on your GitHub profile.
